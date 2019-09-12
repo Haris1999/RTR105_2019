@@ -1,0 +1,88 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  firefox
+    5  ls
+    6  ls -l
+    7  ls -a
+    8  ls -al
+    9  cd .
+   10  cd.
+   11  cd .
+   12  pwd/home/user
+   13  cd ..
+   14  pwd
+   15  ls -la
+   16  cd sc ..
+   17  cd sc
+   18  ..
+   19  ls -a
+   20  ls -al
+   21  cd ..
+   22  cs ..
+   23  pwd
+   24  cd ~
+   25  cd /
+   26  pwd
+   27  azxfcdxedcxddc dszxfgv
+   28  cd ~/
+   29  cd
+   30  sh
+   31  sh
+   32  mkdir manamape
+   33  cd /
+   34  mkdir mana mape
+   35  mkdir man mape
+   36  ls
+   37  cd ~
+   38  cd ManaMape
+   39  hyistory
+   40  history
+   41  history > history_20190912.txt 
+   42  ls
+   43  firefox
+   44  ls
+   45  touch aaa.txt
+   46  ls -l
+   47  cat aaa.txt
+   48  echo Pirmais teksts
+   49  echo Pirmais teksts > aaa.txt
+   50  cat aaa.txt
+   51  ls - l aaa.txt
+   52  ls -l aaa.txt
+   53  echo Otrais teksts > aaa.txt
+   54  cat aaa.txt
+   55  echo Pirmais teksts > aaa.txt
+   56  cat aaa.txt
+   57  echo Otrais teksts >> aaa.txt
+   58  cat aaa.txt
+   59  nano aaa.txt
+   60  cp aaa.txt bbb.txt
+   61  ls -l
+   62  cd /
+   63  pwd
+   64  mv ~/aaa.txt ~/Documents/ccc.txt
+   65  ls
+   66  ls -l
+   67  cat Documents/ccc.txt
+   68  nano aaa.txt
+   69  pwd
+   70  mv ./Documents/ccc.txt ddd.txt
+   71  ld -l
+   72  ls -l
+   73  mkdir ManaMape
+   74  mv *.txt ManaMape/
+   75  ls -l
+   76  ls -l ManaMape
+   77  cd ManaMape/
+   78  rm bbb.txt
+   79  ls -l
+   80  rmdir ManaMape/
+   81  ls -l
+   82  echo $PATH
+   83  cd
+   84  pwd
+   85  PATH=$PATH
+   86  PATH=$PATH:~/
+   87  echo $PATH
+   88  history > history_20190912b
