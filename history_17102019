@@ -1,0 +1,53 @@
+ 1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Haris1999/RTR105_2019
+    4  ls -l
+    5  cd RTR105_2019/
+    6  cd darbi/
+    7  ls -l
+    8  nano if_tests_even_odd.c 
+    9  cp if_tests_even_odd.c 
+   10  cp if_tests_even_odd.c user_function_no_arg_no_return.c
+   11  nano user_function_no_arg_no_return.c 
+   12  gcc user_function_no_arg_no_return.c 
+   13  ./a.out
+   14  nano user_function_no_arg_no_return.c 
+   15  gcc user_function_no_arg_no_return.c 
+   16  nano user_function_no_arg_no_return.c 
+   17  gcc user_function_no_arg_no_return.c 
+   18  nano user_function_no_arg_no_return.c 
+   19  gcc user_function_no_arg_no_return.c 
+   20  ./a.out
+   21  nano user_function_no_arg_no_return.c 
+   22  gcc user_function_no_arg_no_return.c 
+   23  nano user_function_no_arg_no_return.c 
+   24  cp user_function_no_arg_no_return.c user_function_with_arg_no_return.c 
+   25  nano user_function_with_arg_no_return.c 
+   26  gcc user_function_with_arg_no_return.c 
+   27  ./a.out
+   28  nano user_function_with_arg_no_return.c 
+   29  gcc user_function_with_arg_no_return.c 
+   30  ./a.out
+   31  nano user_function_with_arg_no_return.c 
+   32  gcc user_function_with_arg_no_return.c 
+   33  ./a.out
+   34  nano user_function_with_arg_no_return.c 
+   35  gcc user_function_with_arg_no_return.c 
+   36  ./a.out
+   37  cp user_function_with_arg_no_return.c user_function_no_arg_with_return.c 
+   38  nano user_function_no_arg_with_return.c 
+   39  gcc user_function_no_arg_with_return.c 
+   40  nano user_function_no_arg_with_return.c 
+   41  gcc user_function_no_arg_with_return.c 
+   42  nano user_function_no_arg_with_return.c 
+   43  gcc user_function_no_arg_with_return.c 
+   44  nano user_function_no_arg_with_return.c 
+   45  gcc user_function_no_arg_with_return.c 
+   46  ./a.out 
+   47  cp user_function_no_arg_with_return.c user_function_with_arg_with_return.c 
+   48  nano user_function_with_arg_with_return.c 
+   49  gcc user_function_with_arg_with_return.c 
+   50  nano user_function_with_arg_with_return.c 
+   51  gcc user_function_with_arg_with_return.c 
+   52  ./a.out 
+   53  history 
